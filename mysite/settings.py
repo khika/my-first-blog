@@ -25,7 +25,7 @@ SECRET_KEY = 'xxypd5cdv5t9v2(_v1uaefq7nvyp$4qps2_)xonu*-kpa%+!94'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["khika.pythonanywhere.com"]
 
 
 # Application definition
